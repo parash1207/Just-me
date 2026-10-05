@@ -1,2 +1,3 @@
 # Just-me
-This is my first Git rrepository
+This is my first Git repository
+Author: Parash Biswa
